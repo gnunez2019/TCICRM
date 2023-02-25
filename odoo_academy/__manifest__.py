@@ -26,6 +26,7 @@
         'security/ir.model.access.csv',
     ],
     'demo':[
+        'demo/academy_demo.xml',
     
     ],
 }
