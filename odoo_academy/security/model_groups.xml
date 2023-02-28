@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<record id="group_portal" model="res.groups">
+    <field name="name">Portal</field>
+    <field name="Comment">Portal members have specific access
+                          rigths(such as record rules and 
+                          restricted menus). They usually do 
+                          not belong to the usual Odoo 
+                          groups.
+    </field>
+</record>
