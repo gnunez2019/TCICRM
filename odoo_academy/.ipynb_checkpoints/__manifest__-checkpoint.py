@@ -24,6 +24,7 @@
     
     'data':[
         'security/ir.model.access.csv',
+        #'security/model_groups.xml',
     ],
     'demo':[
         'demo/academy_demo.xml',
